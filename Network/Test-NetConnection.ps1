@@ -39,3 +39,14 @@ Test-NetConnection 172.67.170.21 -Port 80
 # Der Remote Desktop Protokoll Port 3389 wird automatisch verwendet, 
 # wenn der Parameter -CommonTCPPort auf "RDP" gesetzt wird
 Test-NetConnection 192.168.100.1 -CommonTCPPort RDP
+
+# Beispiel 5
+# Verbindung zum TCP Port 22 an der IPv4-Adresse 172.67.170.21 testen.
+# Rückgabe in Variable $Verbindung speichern und weiterverarbeiten.
+# Die Eigenschaft "TcpTestSucceeded" zeigt, ob die Verbindung zum Port erfolgreich war.
+$Verbindung = Test-NetConnection 172.67.170.21 -Port 22
+if($Verbindung.TcpTestSucceeded) {
+    Write-Host "Die Verbindung zum Port 22 war erfolgreich :)"
+} else {
+    Write-Host "Die Verbindung zum Port 22 war nicht erfolgreich :("
+}

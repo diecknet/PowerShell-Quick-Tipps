@@ -1,4 +1,10 @@
-<#
+<#    _ _           _               _   
+   __| (_) ___  ___| | ___ __   ___| |_ 
+  / _` | |/ _ \/ __| |/ / '_ \ / _ \ __|
+ | (_| | |  __/ (__|   <| | | |  __/ |_ 
+  \__,_|_|\___|\___|_|\_\_| |_|\___|\__|
+         PowerShell Quick Tipp
+
 Add-Computer
 Mit Add-Computer kann ein Computer zu einer Windows Server Active Directory Domäne hinzugefügt werden.
 

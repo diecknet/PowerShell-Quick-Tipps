@@ -8,6 +8,12 @@ PowerShell Beispiele für Windows Server Active Directory:
 
 - [Computer zur Domäne hinzufügen per `Add-Computer`](./Active_Directory/Add-Computer.ps1) | [VIDEO](https://youtube.com/shorts/KHcGi_r5JrI)
 
+## Konsolentricks
+
+Tipps zum schnelleren, angenehmeren oder effizienteren Arbeiten in der PowerShell Konsole:
+
+- [Schnell zur obersten Ebene wechseln per `cd \`](./Konsolentricks/cd-backslash.ps1) | [VIDEO](https://youtube.com/shorts/PUkhLl4zM0w)
+
 ## Netzwerk
 
 PowerShell Beispiele für's Netzwerk:

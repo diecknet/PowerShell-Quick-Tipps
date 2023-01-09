@@ -8,6 +8,13 @@ PowerShell Beispiele für Windows Server Active Directory:
 
 - [Computer zur Domäne hinzufügen per `Add-Computer`](./Active_Directory/Add-Computer.ps1) | [VIDEO](https://youtube.com/shorts/KHcGi_r5JrI)
 
+## Computer
+
+Mit diesen Cmdlets und Codesnips können Computer verwaltet werden:
+
+- [Herunterfahren eines Computers per `Stop-Computer` und neustarten per `Restart-Computer`](./Computer/Stop-Computer_und_Restart-Computer.ps1) | [VIDEO](https://youtube.com/shorts/T4_Nh3Fcq9E)
+- [Neustarten eines Computers per `Restart-Computer`](./Computer/Stop-Computer_und_Restart-Computer.ps1) | [VIDEO](https://youtube.com/shorts/T4_Nh3Fcq9E)
+
 ## Konsolentricks
 
 Tipps zum schnelleren, angenehmeren oder effizienteren Arbeiten in der PowerShell Konsole:

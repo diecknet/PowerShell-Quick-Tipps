@@ -15,7 +15,7 @@ Demo-Video dazu: https://youtube.com/shorts/T4_Nh3Fcq9E
 #>
 
 ###############################
-#  HERUNTERFAHRN / SHUTDOWN   #
+#  HERUNTERFAHREN / SHUTDOWN  #
 ###############################
 
 # Beispiel 1

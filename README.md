@@ -19,6 +19,7 @@ Mit diesen Cmdlets und Codesnips können Computer verwaltet werden:
 
 Tipps zum schnelleren, angenehmeren oder effizienteren Arbeiten in der PowerShell Konsole:
 
+- [Hashwerte für Dateien berechnen ohne Zusatztools mit `Get-FileHash`](./Konsolentricks/Get-FileHash.ps1) | [VIDEO](https://youtube.com/shorts/8C5HHAjAUnQ)
 - [Zugriff auf die Zwischenablage per PowerShell mit `clip`, `Set-Clipboard` und `Get-Clipboard`](./Konsolentricks/Zwischenablage.ps1) | [VIDEO](https://www.youtube.com/shorts/TteSZQF6RQo)
 - [Schnell zur obersten Ebene wechseln per `cd \`](./Konsolentricks/cd-backslash.ps1) | [VIDEO](https://youtube.com/shorts/PUkhLl4zM0w)
 

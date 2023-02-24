@@ -1,5 +1,15 @@
 # PowerShell Quick Tipps
 
+```ps
+<#    _ _           _               _   
+   __| (_) ___  ___| | ___ __   ___| |_ 
+  / _` | |/ _ \/ __| |/ / '_ \ / _ \ __|
+ | (_| | |  __/ (__|   <| | | |  __/ |_ 
+  \__,_|_|\___|\___|_|\_\_| |_|\___|\__|
+         PowerShell Quick Tipp
+#>
+```
+
 PowerShell Tipps und Beispiele auf Deutsch. Mit Beispielvideos. Erstellt von Andreas Dieckmann (@diecknet).  
 - Blog: [diecknet.de](https://diecknet.de)
 - YouTube [youtube.com/@diecknet](https://youtube.com/@diecknet)

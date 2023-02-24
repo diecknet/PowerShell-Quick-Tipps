@@ -1,6 +1,8 @@
 # PowerShell Quick Tipps
 
-PowerShell Tipps und Beispiele auf Deutsch. Mit Beispielvideos. Erstellt von Andreas Dieckmann (@diecknet).
+PowerShell Tipps und Beispiele auf Deutsch. Mit Beispielvideos. Erstellt von Andreas Dieckmann (@diecknet).  
+- Blog: [diecknet.de](https://diecknet.de)
+- YouTube [youtube.com/@diecknet](https://youtube.com/@diecknet)
 
 ## Active Directory
 
